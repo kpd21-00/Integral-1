@@ -6,6 +6,8 @@ using System.Windows.Forms;
 
 //КОЛЯ ПРИВЕТ!!!!
 //ЭТ Я, МАКСИК)))
+//Я присоединяюсь к поправкам 
+//Петр
 
 namespace Integral
 {
